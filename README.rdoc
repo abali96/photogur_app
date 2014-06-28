@@ -1,4 +1,4 @@
 Photogur - Imgur Clone
-==========
+=====
 
-Bitmaker Labs assignment: this assignment was our first practical with Rails. Photogur reinforced the understanding of the MVC architecture.
+Bitmaker Labs assignment: this assignment was our first practical with Rails. Photogur reinforced my understanding of the MVC architecture.
